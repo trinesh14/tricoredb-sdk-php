@@ -1,0 +1,8 @@
+* text=auto eol=lf
+
+# Kept out of the archive Composer installs: a dependent needs src/ only.
+/tests export-ignore
+/examples export-ignore
+/.gitattributes export-ignore
+/.gitignore export-ignore
+/phpunit.xml.dist export-ignore
